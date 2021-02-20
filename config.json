@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": [#access_token=436a146239d558e12a5e2b828e4867d850c099ab8bd8a5deaba1f91de4ae7c60a9528afd52ef7df19daf4],
+  "secret_code": "Ivan556789",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
